@@ -49,7 +49,7 @@ Ngày nay, nhu cầu giải trí, thư giãn là rất cần thiết đối vớ
 
 + Phân loại bài hát theo playlist.
 <p align="center">
-   <img src="screenshots/trangchu_6.jpg" height = "480" width="270"> <img src="screenshots/trangchu_5.jpg" height = "480" width="270">
+   <img src="screenshots/trangchu_7.jpg" height = "480" width="270"> <img src="screenshots/trangchu_8.jpg" height = "480" width="270">
 </p>
 
 + Phân loại bài hát theo album.
@@ -59,17 +59,17 @@ Ngày nay, nhu cầu giải trí, thư giãn là rất cần thiết đối vớ
 
 + Phân loại bài hát theo chủ đề - thể loại.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_6.jpg" height = "480" width="270"> <img src="screenshots/trangchu_5.jpg" height = "480" width="270">
 </p>
 
 + Danh sách các album.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_10.jpg" height = "480" width="270"> <img src="screenshots/trangchu_9.jpg" height = "480" width="270">
 </p>
 
 + Top 10 ca khúc có lượt nghe nhiều nhất.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_11.jpg" height = "480" width="270">
 </p>
 
 
