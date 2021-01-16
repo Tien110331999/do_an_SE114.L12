@@ -38,23 +38,23 @@ Ngày nay, nhu cầu giải trí, thư giãn là rất cần thiết đối vớ
 * Thống kê lượt nghe: Hiển thị Top 10 bài hát có lượt nghe nhiều nhất.
 * Quảng cáo: Quảng cáo các bài hát với những nội dung hấp dẫn. Khi chọn vào quảng cáo sẽ dẫn vào trang phát nhạc bài hát đó.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_1.jpg" height = "480" width="270">
 </p>
 
 * Trang chủ là 1 ScrollView để hiển thị các nội dung:
 + Quảng cáo các bài hát.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_2.jpg" height = "480" width="270">
 </p>
 
 + Phân loại bài hát theo playlist.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_6.jpg" height = "480" width="270"> <img src="screenshots/trangchu_5.jpg" height = "480" width="270">
 </p>
 
 + Phân loại bài hát theo album.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangchu_3.jpg" height = "480" width="270"> <img src="screenshots/trangchu_4.jpg" height = "480" width="270">
 </p>
 
 + Phân loại bài hát theo chủ đề - thể loại.
