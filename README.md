@@ -54,12 +54,12 @@ Ngày nay, nhu cầu giải trí, thư giãn là rất cần thiết đối vớ
 
 + Phân loại bài hát theo album.
 <p align="center">
-   <img src="screenshots/trangchu_3.jpg" height = "480" width="270"> <img src="screenshots/trangchu_4.jpg" height = "480" width="270">
+   <img src="screenshots/trangchu_6.jpg" height = "480" width="270"> <img src="screenshots/trangchu_5.jpg" height = "480" width="270">
 </p>
 
 + Phân loại bài hát theo chủ đề - thể loại.
 <p align="center">
-   <img src="screenshots/trangchu_6.jpg" height = "480" width="270"> <img src="screenshots/trangchu_5.jpg" height = "480" width="270">
+   <img src="screenshots/trangchu_3.jpg" height = "480" width="270"> <img src="screenshots/trangchu_4.jpg" height = "480" width="270">
 </p>
 
 + Danh sách các album.
@@ -80,14 +80,14 @@ Bao gồm 2 tab: Điều chỉnh nhạc và hiển thị danh sách bài hát.
 * Hẹn giờ: Cài đặt thời gian tắt nhạc.
 * Tab Danh sách bài hát: Hiển thị danh sách các bài hát đang phát. Chúng ta có thể click vào bài hát muốn nghe trong danh sách để phát.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangpn_2.jpg" height = "480" width="270"> <img src="screenshots/trangpn_2.jpg" height = "480" width="270">
    </p>
 
 ### Trang bài hát
 Trang bài hát: 
 * Hiển thị danh sách các bài hát và lượt nghe của từng bài. Chúng ta có thể chọn nghe từng bái hát bằng cách click vào từng dòng hoặc nghe tất cả bài hát với việc chọn icon đĩa nhạc trên cùng.
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/trangbt.jpg" height = "480" width="270">
    </p>
 
 ### Trang Tìm Kiếm
@@ -99,7 +99,15 @@ Trang tìm kiếm: Tìm kiếm với từ khóa được cung cấp và phân lo
 * Chủ đề
 
 <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/timkiem_1.jpg" height = "480" width="270">
+   </p>
+
+
+
+* Tìm kiếm từ khóa "Tình"
+
+<p align="center">
+   <img src="screenshots/timkiem_2.jpg" height = "480" width="270"> <img src="screenshots/timkiem_3.jpg" height = "480" width="270"> <img src="screenshots/timkiem_4.jpg" height = "480" width="270">
    </p>
    
 ## Yêu cầu thiết bị
