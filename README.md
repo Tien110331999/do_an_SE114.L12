@@ -80,7 +80,7 @@ Bao gồm 2 tab: Điều chỉnh nhạc và hiển thị danh sách bài hát.
 * Hẹn giờ: Cài đặt thời gian tắt nhạc.
 * Tab Danh sách bài hát: Hiển thị danh sách các bài hát đang phát. Chúng ta có thể click vào bài hát muốn nghe trong danh sách để phát.
 <p align="center">
-   <img src="screenshots/trangpn_2.jpg" height = "480" width="270"> <img src="screenshots/trangpn_2.jpg" height = "480" width="270">
+   <img src="screenshots/trangpn_2.jpg" height = "480" width="270"> <img src="screenshots/trangpn_1.jpg" height = "480" width="270">
    </p>
 
 ### Trang bài hát
