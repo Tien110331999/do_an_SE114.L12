@@ -4,6 +4,10 @@
 Ngày nay, nhu cầu giải trí, thư giãn là rất cần thiết đối với mỗi chúng ta sau những giờ làm việc, học tập căng thẳng. Một trong số những cách tốt nhất giúp chúng ta thoải mái đó chính là nghe nhạc. Nắm bắt được điều đó, việc tạo ra một ứng dụng nghe nhạc tiện lợi,  giúp chúng ta thư thả, tận hưởng những giai điệu một cách tốt nhất là một vấn đề cần được quan tâm.
 Ứng dụng nghe nhạc sẽ giúp chúng ta dễ tìm kiếm bài hát yêu thích, giao diện dễ dùng, gần gũi. Từ đó, bạn có thể thư giản,  thoải mái ca hát đề giảm đi mệt mỏi, căng thẳng hàng ngày. 
 
+<p align="center">
+   <img src="screenshots/icon.jpg" height = "480" width="270">
+</p>
+
 
 #  PHẦN II: NỘI DUNG
 1. [Chức năng](#chức-năng)
